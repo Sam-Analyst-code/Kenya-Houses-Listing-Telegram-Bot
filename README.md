@@ -19,7 +19,7 @@ This is a Python-powered automation project that scrapes the latest house listin
 - PythonAnywhere – cloud hosting and scheduling
 
 ## 🗂️ Project Structure
-
+```python
 Kenya-Houses-Listing-Telegram-Bot/
 ├── buykenya.py           # Web scraper to collect latest listings
 ├── telegram_bot.py       # Telegram bot logic to send updates
@@ -27,7 +27,7 @@ Kenya-Houses-Listing-Telegram-Bot/
 ├── kenya_houses.db       # SQLite database storing listings
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation (this file)
-
+```
 
 ---
 
