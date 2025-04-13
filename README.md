@@ -55,7 +55,7 @@ pip install -r requirements.txt
 - Copy the token and set it in your code
 - Add your chat ID
 
-  5. **Start the bot manually**
+5. **Start the bot manually**
   ```bash
   python telegram_bot.py
   ```
