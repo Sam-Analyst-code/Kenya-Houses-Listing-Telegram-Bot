@@ -64,16 +64,15 @@ pip install -r requirements.txt
   ## Example Output
   ```rust
   📅 Latest Houses for Sale in Kenya:
+  1. 3 Bedroom Apartment - Ksh 7,500,000
+  📍 Kileleshwa, Nairobi
+  🔗 https://www.buyrentkenya.com/listings/example-1
 
-1. 3 Bedroom Apartment - Ksh 7,500,000
-📍 Kileleshwa, Nairobi
-🔗 https://www.buyrentkenya.com/listings/example-1
+  2. 4 Bedroom Maisonette - Ksh 11,200,000
+  📍 South C, Nairobi
+  🔗 https://www.buyrentkenya.com/listings/example-2
 
-2. 4 Bedroom Maisonette - Ksh 11,200,000
-📍 South C, Nairobi
-🔗 https://www.buyrentkenya.com/listings/example-2
-
-...up to 5 listings
+  ...up to 5 listings
 ```
 
 
